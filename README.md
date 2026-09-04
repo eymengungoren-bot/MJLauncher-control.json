@@ -1,0 +1,1 @@
+# MJLauncher-control.json
